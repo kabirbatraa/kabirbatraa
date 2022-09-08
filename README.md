@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kabirbatraa
 - 👀 I’m interested in software dev, graphics, app dev, ML
-- 🌱 I’m currently learning web dev and cp
+- 🌱 I’m currently learning graphics, vr, unity
 - 📫 How to reach me: kabirbatraa at gmail dot com
 
 <!---
