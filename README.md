@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity VR
 - 📫 How to reach me: kabirbatraa at gmail dot com
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabirbatraa&theme=monokai-metallian)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabirbatraa&theme=monokai-metallian)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirbatraa&show_icons=true&locale=en&layout=compact&theme=dracula" /></p>
 
