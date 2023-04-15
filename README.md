@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kabirbatraa
 - 👀 I’m interested in XR, software dev, graphics, app dev, ML
-- 🌱 I’m currently learning Unity VR
+- 🌱 I’m currently learning Unity XR
 - 📫 How to reach me: kabirbatraa at gmail dot com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabirbatraa&theme=monokai-metallian)](https://git.io/streak-stats)
