@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kabirbatraa
-- 👀 I’m interested in XR, software dev, graphics, app dev, ML (reinforcement learning)
+- 👀 I’m interested in XR, software dev, graphics, app dev, reinforcement learning
 - 🌱 I’m currently learning three.js, Blender, Unreal Engine, and Unity XR and ML agents
 - 📫 How to reach me: kabirbatraa at gmail dot com
 
